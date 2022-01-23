@@ -1,0 +1,12 @@
+{
+    "trainingSamplesFile": "training.csv",
+    "validationSamplesFile" : "validation.csv",
+    "learningRate" : 0.001,
+    "batchSize" : 4,
+    "num_epochs" : 20,
+    "outputVector" : 512,
+    "bestWeights": "bestWeights.pth",
+    "dataRootDirectory":"./dataset",
+    "threshold_step": 0.05,
+    "outputFolder" : "./output"
+}
