@@ -4,6 +4,8 @@
 
 This is the readme file for the "Facial Recognition Using Convolutional Neural Network" project and it contains instructions to run training and inference module.
 
+You can download the **pretrained weights** from here: https://drive.google.com/file/d/1zIFgbIOdhLS-yMYk3tL3slfwu-euGgYH/view?usp=sharing
+
 
 ##### Requirements
 The model has been implemented using PyTorch and utilizes other libraries such as scikit-learn etc. To install the required libraries and dependencies create a virtual environment and install all the libraries in the  **requirement.txt**  file.
